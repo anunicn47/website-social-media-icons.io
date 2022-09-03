@@ -2,27 +2,6 @@ html, body {
   background: #fff;
   margin: 0;
 }
-
-.head {
-  background: #cd679a;
-  padding: 40px 0;
-  text-align: center;
-}
-.head h1 {
-  display: inline-block;
-  font-family: 'Slabo 27px', serif;
-  font-size: 64px;
-  color: #fff;
-  margin: 0;
-  position: relative;
-  top: -40px;
-}
-.head h2 {
-  font-family: 'Ubuntu', sans-serif;
-  color: #fff;
-  margin: 0 0 20px 0;
-}
-
 .ex4 {
   padding: 60px 0;
   text-align: center;
